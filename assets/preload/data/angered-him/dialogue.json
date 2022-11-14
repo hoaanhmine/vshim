@@ -1,0 +1,44 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "that song sucked even more balls",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "ok but at least you dont hate my drums",
+			"boxState": "normal",
+			"portrait": "him",
+			"speed": 0.05,
+			"sound": "him"
+		},
+		{
+			"expression": "talk",
+			"text": "i hate your drums",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": " ....................................",
+			"boxState": "normal",
+			"portrait": "him",
+			"speed": 0.05,
+			"sound": "him"
+		},
+		{
+			"expression": "excited",
+			"text": "uh oh",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "bf"
+		}
+	]
+}

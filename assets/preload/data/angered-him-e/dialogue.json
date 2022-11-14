@@ -1,0 +1,36 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "that song was cool",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "tha-",
+			"boxState": "normal",
+			"sound": "him",
+			"speed": 0.05,
+			"portrait": "him"
+		},
+		{
+			"expression": "talk",
+			"text": "uhm erm actually fuck you i dont like the song go fuck yourself lol",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "youv'e gone too far pal.....................",
+			"boxState": "angry",
+			"sound": "him",
+			"speed": 0.05,
+			"portrait": "ourplehim"
+		}
+	]
+}

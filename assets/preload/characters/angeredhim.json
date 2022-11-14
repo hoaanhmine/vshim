@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				520,
+				650
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "AngeredHim left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				520,
+				650
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "AngeredHim up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				520,
+				650
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "AngeredHim right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				531,
+				650
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "AngeredHim idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				529,
+				649
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "AngeredHim down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/AngeredHim",
+	"position": [
+		-310,
+		190
+	],
+	"healthicon": "nightmarehim",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		33,
+		0
+	],
+	"camera_position": [
+		410,
+		290
+	],
+	"sing_duration": 6.1,
+	"scale": 0.3
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-9,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "HimEnd idle"
+		},
+		{
+			"offsets": [
+				-11,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "HimEnd left"
+		},
+		{
+			"offsets": [
+				-10,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "HimEnd down"
+		},
+		{
+			"offsets": [
+				-10,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "HimEnd up"
+		},
+		{
+			"offsets": [
+				-10,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "HimEnd right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/HimEnd",
+	"position": [
+		-960,
+		-240
+	],
+	"healthicon": "him",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		-220,
+		180
+	],
+	"sing_duration": 16,
+	"scale": 1
+}

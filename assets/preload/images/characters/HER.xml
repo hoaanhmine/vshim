@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="he.png"><SubTexture name="he idle0000" x="0" y="0" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512" />
+<SubTexture name="he idle0001" x="512" y="0" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512" />
+<SubTexture name="he idle0002" x="0" y="512" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512" />
+<SubTexture name="he left0000" x="512" y="512" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512" />
+<SubTexture name="he left0001" x="1024" y="0" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512" />
+<SubTexture name="he right0000" x="1024" y="512" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512" />
+<SubTexture name="he right0001" x="0" y="1024" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512" />
+<SubTexture name="he down0000" x="512" y="1024" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512" />
+<SubTexture name="he down0001" x="1024" y="1024" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512" />
+<SubTexture name="he up0000" x="1536" y="0" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512" />
+<SubTexture name="he up0001" x="1536" y="512" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512" />
+<SubTexture name="he missleft0000" x="1536" y="1024" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512" />
+<SubTexture name="he missleft0001" x="0" y="1536" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512" />
+<SubTexture name="he missdown0000" x="512" y="1536" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512" />
+<SubTexture name="he missdown0001" x="1024" y="1536" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512" />
+<SubTexture name="he missup0000" x="1536" y="1536" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512" />
+<SubTexture name="he missup0001" x="2048" y="0" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512" />
+<SubTexture name="he missright0000" x="2048" y="512" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512" />
+<SubTexture name="he missright0001" x="2048" y="1024" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512" />
+</TextureAtlas>

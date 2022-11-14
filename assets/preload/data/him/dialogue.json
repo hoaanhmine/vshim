@@ -1,0 +1,76 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "hi",
+			"boxState": "normal",
+			"sound": "him",
+			"speed": 0.05,
+			"portrait": "him"
+		},
+		{
+			"expression": "talk",
+			"text": "hi",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "who are you",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "him",
+			"boxState": "normal",
+			"sound": "him",
+			"speed": 0.05,
+			"portrait": "him"
+		},
+		{
+			"expression": "talk",
+			"text": "who",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "him",
+			"boxState": "normal",
+			"sound": "him",
+			"speed": 0.05,
+			"portrait": "him"
+		},
+		{
+			"expression": "talk",
+			"text": "who",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "him",
+			"boxState": "normal",
+			"sound": "him",
+			"speed": 0.05,
+			"portrait": "him"
+		},
+		{
+			"expression": "talk",
+			"text": "ok",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		}
+	]
+}

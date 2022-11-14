@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				620,
+				310
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "HimDrums Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				620,
+				310
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "HimDrums Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				620,
+				310
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "HimDrums Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				620,
+				310
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "HimDrums Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				620,
+				310
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "HimDrums Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ItDrums",
+	"position": [
+		0,
+		30
+	],
+	"healthicon": "him",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		12,
+		0
+	],
+	"camera_position": [
+		-60,
+		180
+	],
+	"sing_duration": 6.1,
+	"scale": 0.4
+}

@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="him.png"><SubTexture name="him nightmare0000" x="0" y="0" width="939" height="772" frameX="-18" frameY="-84" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="him among0000" x="939" y="0" width="814" height="494" frameX="-91" frameY="-391" frameWidth="1024" frameHeight="1024" />
+</TextureAtlas>

@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 2.9,
+		"stage": "void",
+		"player1": "himplayable",
+		"player2": "him",
+		"player3": null,
+		"events": [
+			[
+				16000,
+				[
+					[
+						"Change Character",
+						"BF",
+						"himmirror"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 120,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Confronting-Yourself"
+	}
+}

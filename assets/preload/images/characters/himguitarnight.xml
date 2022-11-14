@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="himguitar.png"><SubTexture name="himguitar idle0000" x="834" y="0" width="915" height="654" frameX="-54" frameY="-238" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="himguitar idle0001" x="0" y="1330" width="833" height="641" frameX="-72" frameY="-244" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="himguitar idle0002" x="0" y="0" width="834" height="676" frameX="-63" frameY="-202" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="himguitar down0000" x="0" y="1971" width="816" height="515" frameX="-109" frameY="-425" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="himguitar down0001" x="816" y="1971" width="831" height="490" frameX="-110" frameY="-421" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="himguitar up0000" x="0" y="676" width="650" height="654" frameX="-239" frameY="-203" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="himguitar up0001" x="650" y="676" width="665" height="652" frameX="-219" frameY="-203" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="himguitar left0000" x="1749" y="647" width="816" height="561" frameX="-105" frameY="-353" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="himguitar left0001" x="1700" y="1330" width="801" height="559" frameX="-111" frameY="-365" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="himguitar right0000" x="1749" y="0" width="829" height="647" frameX="-150" frameY="-377" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="himguitar right0001" x="833" y="1330" width="867" height="620" frameX="-136" frameY="-375" frameWidth="1024" frameHeight="1024" />
+</TextureAtlas>

@@ -1,0 +1,59 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Her",
+			"her",
+			[
+				255,
+				140,
+				140
+			]
+		],
+		[
+			"It",
+			"it",
+			[
+				255,
+				235,
+				0
+			]
+		],
+		[
+			"Egg",
+			"egg",
+			[
+				46,
+				13,
+				153
+			]
+		],
+		[
+			"Confronting-Yourself",
+			"him",
+			[
+				255,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "boil dogs"
+}

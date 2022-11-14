@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-9,
+				-10
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "he idle"
+		},
+		{
+			"offsets": [
+				50,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "he left"
+		},
+		{
+			"offsets": [
+				0,
+				-50
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "he down"
+		},
+		{
+			"offsets": [
+				0,
+				20
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "he up"
+		},
+		{
+			"offsets": [
+				-30,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "he right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/HER",
+	"position": [
+		0,
+		280
+	],
+	"healthicon": "her",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		120,
+		140
+	],
+	"camera_position": [
+		-20,
+		-120
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

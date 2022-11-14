@@ -1,0 +1,32 @@
+{
+	"storyName": "coming-soon",
+	"difficulties": "willcrash",
+	"hideFreeplay": true,
+	"weekBackground": "him",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"coming soon",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"him",
+		"him",
+		"him"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

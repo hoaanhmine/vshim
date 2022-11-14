@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Him.png"><SubTexture name="Him Idle0000" x="0" y="1694" width="886" height="453" frameX="-83" frameY="-439" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="Him Idle0001" x="1720" y="0" width="814" height="494" frameX="-91" frameY="-391" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="Him Idle0002" x="930" y="0" width="790" height="570" frameX="-107" frameY="-308" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="Him Down0000" x="1720" y="958" width="744" height="448" frameX="-169" frameY="-425" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="Him Down0001" x="1720" y="494" width="766" height="464" frameX="-175" frameY="-421" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="Him Up0000" x="0" y="0" width="482" height="654" frameX="-273" frameY="-203" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="Him Up0001" x="482" y="0" width="448" height="652" frameX="-287" frameY="-203" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="Him Left0000" x="0" y="654" width="798" height="528" frameX="-105" frameY="-353" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="Him Left0001" x="0" y="1182" width="760" height="512" frameX="-111" frameY="-365" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="Him Right0000" x="760" y="1182" width="776" height="510" frameX="-203" frameY="-377" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="Him Right0001" x="798" y="654" width="788" height="524" frameX="-215" frameY="-375" frameWidth="1024" frameHeight="1024" />
+</TextureAtlas>

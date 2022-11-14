@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="NightmareHim.png"><SubTexture name="NightmareHim Down0000" x="0" y="0" width="829" height="948" frameX="-100" frameY="0" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="NightmareHim Down0001" x="3903" y="0" width="838" height="728" frameX="-129" frameY="-158" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="NightmareHim Down0002" x="2869" y="2618" width="831" height="771" frameX="-121" frameY="-136" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="NightmareHim Idle0000" x="0" y="948" width="953" height="844" frameX="-41" frameY="-34" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="NightmareHim Idle0001" x="0" y="2618" width="942" height="796" frameX="-36" frameY="-79" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="NightmareHim Idle0002" x="942" y="2618" width="988" height="781" frameX="0" frameY="-97" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="NightmareHim Idle0003" x="1930" y="2618" width="939" height="772" frameX="-18" frameY="-84" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="NightmareHim Left0000" x="953" y="948" width="988" height="839" frameX="0" frameY="-65" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="NightmareHim Left0001" x="2368" y="833" width="787" height="814" frameX="-85" frameY="-85" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="NightmareHim Left0002" x="1530" y="0" width="838" height="854" frameX="-65" frameY="-51" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="NightmareHim Right0000" x="0" y="1792" width="988" height="826" frameX="-36" frameY="-76" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="NightmareHim Right0001" x="1720" y="1792" width="846" height="810" frameX="-157" frameY="-99" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="NightmareHim Right0002" x="2368" y="0" width="830" height="833" frameX="-150" frameY="-76" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="NightmareHim Up0000" x="829" y="0" width="701" height="931" frameX="-141" frameY="0" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="NightmareHim Up0001" x="988" y="1792" width="732" height="812" frameX="-146" frameY="-53" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="NightmareHim Up0002" x="3198" y="0" width="705" height="806" frameX="-144" frameY="-53" frameWidth="1024" frameHeight="1024" />
+</TextureAtlas>

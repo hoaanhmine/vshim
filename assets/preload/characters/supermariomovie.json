@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				730,
+				110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "supermariomovie idle"
+		},
+		{
+			"offsets": [
+				730,
+				111
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "supermariomovie left"
+		},
+		{
+			"offsets": [
+				730,
+				110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "supermariomovie down"
+		},
+		{
+			"offsets": [
+				730,
+				110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "supermariomovie up"
+		},
+		{
+			"offsets": [
+				730,
+				110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "supermariomovie right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/supermariomovie",
+	"position": [
+		0,
+		20
+	],
+	"healthicon": "mario",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		-470,
+		-80
+	],
+	"sing_duration": 6.9,
+	"scale": 0.8
+}

@@ -1,0 +1,36 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "that song sucked ass",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "i bet you shower naked",
+			"boxState": "normal",
+			"portrait": "him",
+			"speed": 0.05,
+			"sound": "him"
+		},
+		{
+			"expression": "confused",
+			"text": "what",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "bf"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "him",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": ""
+		}
+	]
+}
